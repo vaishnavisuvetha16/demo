@@ -1,0 +1,94 @@
+body{
+    font-family:"Times New Roman";
+    background-color:rgb(235, 191, 222);
+}
+.header{
+    background-color: rgb(126, 5, 86);
+    color:#fff;
+    height:90px;
+}
+.header-logo {
+    font-size:50px ;
+    padding:10px 10px;
+    float:left;
+    font-weight: bold;
+    margin-left:10px;
+}
+.image{
+    height:300px;
+    width:200px;
+    float:right;
+    margin-right:110px;
+    padding-top:50px;
+}
+
+}
+.header-list a{
+    float:right;
+    padding:35px 20px;
+    font-size: 20px;
+}
+a{
+    color:#fff;
+    float:right;
+    padding:35px 20px;
+    font-size:30px;
+}
+a:hover{
+    color:rgb(57, 34, 190);
+}
+
+.main{
+    height:900px;
+}
+.det{
+    color:rgb(5, 5, 5);
+    font-size:26px;
+    margin-left:10px;
+}
+
+.pics{
+    float:left;
+    padding:70px 0 20px 50px
+}
+.pics img{
+    height: 150px;
+    width:150px;
+}
+.piclist{
+    float:left;
+    margin-left:350px;
+    
+}
+.lists h3{
+    color:rgb(5, 5, 5)
+    font-weight: bolder;
+    padding-top:5px;
+}
+.lists li{
+    padding-bottom:3px;
+    margin-right:3px;
+    list-style: symbols(diamond);
+    color:rgb(5,5,5);
+}
+.footer{
+    background-color:rgb(126, 5, 86);
+    padding:40px;
+    height:120px;
+    color:white;
+}
+.logo{
+    float:left;
+    font-size:26px;
+    
+}
+.lis li{
+    padding-bottom:20px;
+    list-style:none;
+}
+.lis{
+    float:right;
+    padding-top:10px;
+    padding-right:30px;
+}
+
